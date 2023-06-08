@@ -13,20 +13,8 @@ GAMBAR2 MASUKKIN FOLDER /fakultas/Images sesuaiin namanya
 3. export jadi swf atau ctrl-enter
   
   ![image](https://github.com/bagus2705/Sim/assets/57803800/e68acdd8-6903-416d-8f3c-bbb47ec7d4e1)
-
-4. buka FILE main.fla
   
-5. buka yang itu
   
-![image](https://github.com/bagus2705/Sim/assets/57803800/102b62f5-ea6f-49a7-98f5-29fb69cbadf1)
-
-6. layer yg itu
-  
-  ![image](https://github.com/bagus2705/Sim/assets/57803800/63595cf3-5c12-4014-98d8-385364b09261)
-  
-7. masukkin disitu sesuai nama
-  
-  ![image](https://github.com/bagus2705/Sim/assets/57803800/18b1bcb6-c33d-426d-b3df-2aa872c28dae)
 
   
 cara nambahin tombolnya---------------------------------------------------------------
@@ -52,4 +40,12 @@ cara nambahin tombolnya---------------------------------------------------------
 5. masukkin script ngikutin dari button yg udah ada sesuaiin fakultasnya
   
  ![image](https://github.com/bagus2705/Sim/assets/57803800/313ed6e7-c970-40d3-81c7-d1e45b5519f9)
+
+7. buka layer yg itu
+  
+  ![image](https://github.com/bagus2705/Sim/assets/57803800/63595cf3-5c12-4014-98d8-385364b09261)
+  
+8. masukkin disitu sesuai nama
+  
+  ![image](https://github.com/bagus2705/Sim/assets/57803800/18b1bcb6-c33d-426d-b3df-2aa872c28dae)
 
