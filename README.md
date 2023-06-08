@@ -23,6 +23,7 @@ GAMBAR2 MASUKKIN FOLDER /fakultas/Images sesuaiin namanya
 6. layer yg itu
   
   ![image](https://github.com/bagus2705/Sim/assets/57803800/63595cf3-5c12-4014-98d8-385364b09261)
+  
 7. masukkin disitu sesuai nama
   
   ![image](https://github.com/bagus2705/Sim/assets/57803800/18b1bcb6-c33d-426d-b3df-2aa872c28dae)
