@@ -1,8 +1,13 @@
 # Sim
+INI SRPEDSHET
+https://docs.google.com/spreadsheets/d/1qwRLzm1NIuZKZ0NLwYR_rhsVeivbOH613M_Q2T8dlH0/edit#gid=1820291665
+
+INI DENAHNYA
+(https://www.unpad.ac.id/wp-content/uploads/2017/08/travel-guide-unpad-5.jpg)
 
 cara nambahin fakultas------------------------------------------------------------------
 
-0. buka FILE /fakultas/<namafakultas>.fla
+0. buka FILE /fakultas/namafakultas.fla
   
 1. copas dari yg udah ada trus ganti namafilenya
   
@@ -14,10 +19,13 @@ GAMBAR2 MASUKKIN FOLDER /fakultas/Images sesuaiin namanya
   
   ![image](https://github.com/bagus2705/Sim/assets/57803800/e68acdd8-6903-416d-8f3c-bbb47ec7d4e1)
   
-  
+4.  warnain kuning di sheetnya
+
+  ![image](https://github.com/bagus2705/Sim/assets/57803800/15569cad-bddd-4337-a591-e53580be2c0e)
+
 
   
-cara nambahin tombolnya---------------------------------------------------------------
+[INI BELAKANGAN]cara nambahin tombolnya---------------------------------------------------------------
   
 0. buka FILE main.fla
   
@@ -48,4 +56,9 @@ cara nambahin tombolnya---------------------------------------------------------
 8. masukkin disitu sesuai nama
   
   ![image](https://github.com/bagus2705/Sim/assets/57803800/18b1bcb6-c33d-426d-b3df-2aa872c28dae)
+  
+9. warnain ijo di shett
+  
+  ![image](https://github.com/bagus2705/Sim/assets/57803800/bc4e1028-36f8-4fad-933c-ce307b0cf022)
+
 
