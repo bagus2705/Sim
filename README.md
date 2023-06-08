@@ -7,7 +7,7 @@ INI DENAHNYA
 
 cara nambahin fakultas------------------------------------------------------------------
 
-0. buka FILE /fakultas/<namafakultas>.fla
+0. buka FILE /fakultas/namafakultas.fla
   
 1. copas dari yg udah ada trus ganti namafilenya
   
