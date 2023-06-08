@@ -25,7 +25,7 @@ GAMBAR2 MASUKKIN FOLDER /fakultas/Images sesuaiin namanya
 
 
   
-cara nambahin tombolnya---------------------------------------------------------------
+[INI BELAKANGAN]cara nambahin tombolnya---------------------------------------------------------------
   
 0. buka FILE main.fla
   
